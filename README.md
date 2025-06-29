@@ -6,6 +6,22 @@
 前面包括code research PPT 和mutlimodel在页面标题的超链接
 我希望每个部分展示成两列的表格，第一列是原本的官方prompt 第二列是翻译，如果原来prompt是英文，翻译成中文，如果是中文，则在第二列翻译成英文
 
+# 鲁叔自己的例子
+
+工业设计就业调查
+https://agent.minimax.io/share/284478302789948
+
+一年级加法游戏
+https://dy1jnk3aqc.space.minimax.io/
+
+科艺中心的新主页
+https://e6rbhosksj.space.minimax.io/
+
+老师讲座PPT
+https://agent.minimax.io/share/284478302789949
+
+算法原理讲解
+https://wreng0b1qw.space.minimax.io/
 
 # Official Prompt
 
